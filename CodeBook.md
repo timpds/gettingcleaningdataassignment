@@ -3,6 +3,7 @@
 ## Overview
 The objective of this work was to take the 'Human Activity Recognition Using Smartphones Dataset' available from <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>, to tidy it and keep only those columns relating to mean and standard deviation measurements, and finally produce a second dataset containing the averages for each of these columns.  More details about the data can be found by following the link above.
 
+The source data can be found at <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
 The aim of this project was to create a single script to:
 
 1. Merge the training and the test sets to create one data set.
