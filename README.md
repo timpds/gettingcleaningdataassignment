@@ -9,7 +9,7 @@ Other than this readme file, the project comprises two others:
 
 Within the run_analysis.R script, each step as described in the codebook is highlighted.
 
-In order to produce the clean data, firstly download the source data from <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip> and then run the entire run_analysis.R script.
+In order to produce the clean data, firstly download the source data from <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip> and then run the entire run_analysis.R script, ensuring that the working directory is set to the top level folder containing the data (i.e. the working directory should contain the 'train' and 'test' folders).
 
 Two output tables will be produced:
 
